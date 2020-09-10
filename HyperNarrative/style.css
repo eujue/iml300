@@ -1,0 +1,50 @@
+.beginning {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+    font-family: 'Georgia';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+}
+
+.container {
+    font-family: 'Georgia';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+}
+
+.container1 {
+    font-family: 'Georgia';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color:white;
+}
+
+.text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.container2{
+    font-family: 'Georgia';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: white;
+    background: black;
+}
+
+.container4 {
+    font-family: 'Georgia';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color:white;
+}
