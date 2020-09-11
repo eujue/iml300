@@ -1,0 +1,103 @@
+.title{
+    font-size: 22px;
+    font-family: 'Karla', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    
+    margin-left: 28%;
+    margin-right:25%;
+    margin-top: 16%;   
+}
+
+#img{
+float:left;
+image-orientation: center;
+margin-left: 28%;
+}
+
+#avo:hover{
+    color:#558303;
+    font-weight: bold;
+}
+
+#srir:hover{
+    color:#E4000F;
+    font-weight: bold;
+}
+
+#t-1 {
+    font-size: 22px;
+    font-family: 'Karla', sans-serif;
+    font-style: normal;
+    font-weight:400;
+    line-height: 150%;
+    
+    margin-left: 28%;
+    margin-right:25%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.body {
+    font-size: 20px;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    
+    margin-left: 28%;
+    margin-right:26%;
+}
+
+#b-1{
+    font-size: 18px;
+    line-height: 180%;
+    margin-top: 4%;
+}
+
+#b-2{
+    font-family: 'Noto Sans JP', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: auto;
+    margin-bottom:1%;
+}
+
+#e-1a{
+    font-size: 16px;
+    font-family: 'Karla', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    
+    margin-left: 28%;
+    margin-right:25%;
+    margin-top: 12%;
+    line-height: 100%;
+}
+
+#e-1{
+    font-size: 16px;
+    font-family: 'Karla', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    
+    margin-left: 28%;
+    margin-right:25%;
+    margin-top: 2%;
+    line-height: auto;
+}
+
+#e-1s{
+ margin-top: 4%;
+}
+
+#f-1{
+font-family: 'Noto Sans JP', sans-serif;
+font-style: normal;
+font-size: 12px;
+color: gray; 
+margin-top: 15%;
+margin-bottom: 3%;
+text-align: center;
+    
+}
