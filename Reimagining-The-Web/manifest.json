@@ -1,0 +1,18 @@
+{
+    "name": "Gradient Emotions",
+	"manifest_version": 2,
+	"name": "New Tab",
+	"version": "1.0",
+	"description": "Launch a new tab to a friend that can change to match your emotion.",
+
+    "icons": {
+    "128": "icon/p5-128.png"
+  },
+    
+	"chrome_url_overrides": {
+		"newtab": "index.html"
+	},
+	"permissions": [
+		"activeTab"
+	]
+}
