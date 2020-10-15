@@ -1,7 +1,7 @@
 # Gradient Emotions
 ![demo](https://github.com/eujue/iml300/blob/master/Reimagining-The-Web/asset/demo.gif)
 
-A Google Chrome extension buddy that can match how you are feeling. Made with p5.js
+A Google Chrome extension buddy that can match to how you are feeling. Made with p5.js
 
 
 ### How To Install
