@@ -13,11 +13,11 @@ A Google Chrome extension buddy that can match how you are feeling. Made with p5
 5. Select the extension folder
 
 ### Images
-![demo1](https://github.com/eujue/iml300/blob/master/Reimagining-The-Web/asset/demo.gif)
+![demo1](https://github.com/eujue/iml300/blob/master/Reimagining-The-Web/asset/demo1.png)
 
-![demo2]
+![demo2](https://github.com/eujue/iml300/blob/master/Reimagining-The-Web/asset/demo2.png)
 
-![demo3]
+![demo3](https://github.com/eujue/iml300/blob/master/Reimagining-The-Web/asset/demo2.png)
 
 ![demo4]
 
