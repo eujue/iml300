@@ -17,13 +17,12 @@ A Google Chrome extension buddy that can match how you are feeling. Made with p5
 
 ![demo2](https://github.com/eujue/iml300/blob/master/Reimagining-The-Web/asset/demo2.png)
 
-![demo3](https://github.com/eujue/iml300/blob/master/Reimagining-The-Web/asset/demo2.png)
+![demo3](https://github.com/eujue/iml300/blob/master/Reimagining-The-Web/asset/demo3.png)
 
-![demo4]
+![demo4](https://github.com/eujue/iml300/blob/master/Reimagining-The-Web/asset/demo4.png)
+![demo5](https://github.com/eujue/iml300/blob/master/Reimagining-The-Web/asset/demo5.png)
 
-![demo5]
-
-![demo6]
+![demo6](https://github.com/eujue/iml300/blob/master/Reimagining-The-Web/asset/demo6.png)
 
 ### Other Chrome extension concepts I am interested in creating
 1. **Colors of the Day**
