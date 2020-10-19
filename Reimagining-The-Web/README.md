@@ -1,7 +1,7 @@
 # Gradient Emotions
 ![demo](https://github.com/eujue/iml300/blob/master/Reimagining-The-Web/asset/demo.gif)
 
-A Google Chrome extension buddy that can match to how you are feeling. Made with p5.js
+A Google Chrome extension buddy that can match to how you are feeling. As humans, we have very complex emotions and it's important to stay in touch with how we are feeling at the time. I hope that this Chrome extensions helps everyone stay aware of how they feel. Made with p5.js
 
 
 ### How To Install
@@ -23,6 +23,10 @@ A Google Chrome extension buddy that can match to how you are feeling. Made with
 ![demo5](https://github.com/eujue/iml300/blob/master/Reimagining-The-Web/asset/demo5.png)
 
 ![demo6](https://github.com/eujue/iml300/blob/master/Reimagining-The-Web/asset/demo6.png)
+
+
+### Next Steps
+I hope to come back to this Google Chrome Extension project and include more emojis that users can identify with. Like the description of this extension mentions, as humans, we have very complex emotions (that's why there are 3,304 emojis!) and the 6 emojis that I currently have do not compare to the real emotions of an individual. I also hope to create subtle transitions between clicks for the gradients so the background colors are soothing to the eyes.
 
 ### Other Chrome extension concepts I am interested in creating
 1. **Colors of the Day**
